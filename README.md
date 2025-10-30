@@ -18,6 +18,8 @@ https://www.kaggle.com/datasets/imdevskp/corona-virus-report - as published in 2
 https://ourworldindata.org/ - as published in 2022
 https://www.mai.gov.ro/ - as published in Press Release in 2021
 
+Explore the project at: https://public.flourish.studio/story/3412652/ 
+
 ## Repository Structure
 
 ```
