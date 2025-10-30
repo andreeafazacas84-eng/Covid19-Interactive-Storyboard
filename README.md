@@ -36,4 +36,4 @@ COVID-19-Interactive-Story/
 
 ## Live Version
 
-Explore the dashboard online: [Flourish Link](https://public.flourish.studio/story/3412652/)
+Explore the dashboard online: https://public.flourish.studio/story/3412652/ 
